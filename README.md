@@ -20,7 +20,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Magma - Modern UI/UX website, developed using Html, CSS and Javascript, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general.
+Magma - Modern UI/UX website, developed using Html, CSS, and Javascript, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
