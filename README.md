@@ -29,4 +29,4 @@ Magma - Modern UI/UX website, developed using Html, CSS and Javascript, exemplif
 - Javascript
 - GSAP
 - Locomotive js
-- Canva Animation
+- Canva Animations
